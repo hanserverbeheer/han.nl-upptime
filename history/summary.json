@@ -4,25 +4,27 @@
     "url": "https://www.han.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.han.nl.ico",
     "slug": "han",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1151,
     "timeDay": 1014,
     "timeWeek": 1151,
     "timeMonth": 1151,
     "timeYear": 1151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-10": 1
+    }
   },
   {
     "name": "HAN Insite",
     "url": "https://www1.han.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www1.han.nl.ico",
     "slug": "han-insite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 1081,
     "timeMonth": 1081,
     "timeYear": 1081,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-10": 0
+    }
   }
 ]
