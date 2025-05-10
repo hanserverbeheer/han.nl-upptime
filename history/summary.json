@@ -4,19 +4,19 @@
     "url": "https://www.han.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.han.nl.ico",
     "slug": "han",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1151,
-    "timeDay": 1014,
-    "timeWeek": 1151,
-    "timeMonth": 1151,
-    "timeYear": 1151,
+    "status": "up",
+    "uptime": "97.33%",
+    "uptimeDay": "92.00%",
+    "uptimeWeek": "97.33%",
+    "uptimeMonth": "97.33%",
+    "uptimeYear": "97.33%",
+    "time": 1235,
+    "timeDay": 1294,
+    "timeWeek": 1235,
+    "timeMonth": 1235,
+    "timeYear": 1235,
     "dailyMinutesDown": {
-      "2025-05-10": 1
+      "2025-05-10": 115
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www1.han.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www1.han.nl.ico",
     "slug": "han-insite",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1081,
-    "timeDay": 730,
-    "timeWeek": 1081,
-    "timeMonth": 1081,
-    "timeYear": 1081,
+    "status": "up",
+    "uptime": "97.34%",
+    "uptimeDay": "92.03%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "97.34%",
+    "uptimeYear": "97.34%",
+    "time": 1148,
+    "timeDay": 1072,
+    "timeWeek": 1148,
+    "timeMonth": 1148,
+    "timeYear": 1148,
     "dailyMinutesDown": {
-      "2025-05-10": 0
+      "2025-05-10": 115
     }
   }
 ]
