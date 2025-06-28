@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 1170,
-    "timeDay": 1027,
-    "timeWeek": 1147,
-    "timeMonth": 1187,
-    "timeYear": 1170,
+    "time": 1169,
+    "timeDay": 1120,
+    "timeWeek": 1120,
+    "timeMonth": 1198,
+    "timeYear": 1169,
     "dailyMinutesDown": {
       "2025-05-10": 197
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www1.han.nl.ico",
     "slug": "han-insite",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.73%",
-    "time": 1100,
-    "timeDay": 1056,
-    "timeWeek": 1141,
-    "timeMonth": 1091,
-    "timeYear": 1100,
+    "uptimeYear": "99.74%",
+    "time": 1099,
+    "timeDay": 1051,
+    "timeWeek": 1111,
+    "timeMonth": 1100,
+    "timeYear": 1099,
     "dailyMinutesDown": {
       "2025-05-10": 196
     }
